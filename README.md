@@ -391,7 +391,7 @@ limit_req_zone $binary_remote_addr zone=mylimit:10m rate=10r/s;
 
 ## ЧТО ДАЛЬШЕ
 
-Я УЖЕ ВЫЛОЖИЛ ТВОЙ КОД В ТЕЛЕГРАМ.
+Я УЖЕ ВЫЛОЖИЛ ТВОЙ КОД В GITHUB.
 
 ТАМ ЛЕЖИТ ВСЕ:
 
