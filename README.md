@@ -304,7 +304,7 @@ limit_req_zone $binary_remote_addr zone=mylimit:10m rate=10r/s;
 
 ДАЖЕ Я НЕ СМОГ.
 
-А Я СЛИВАЛ КОД PEKORA, Я ВИДЕЛ РЕАЛЬНОЕ ГОВНО.
+Я ИСЛЕДОВАЛ КОД PEKORA И ВИДЕЛ НАСТОЯЩЕЕ ГОВНО.
 
 НО ЭТО ГОВНО ДАЖЕ ХУЖЕ.
 
